@@ -2,7 +2,7 @@
 
 BBS Themes
 
-# Todo list:
+## Todo list:
 - [ ] Make UI
 - [ ] Add Import/export themes feature
 - [ ] Fix Background image semi-transparent not working
