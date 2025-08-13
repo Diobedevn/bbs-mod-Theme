@@ -3,9 +3,9 @@
 BBS Themes
 
 # Todo list:
-    - [ ] Make UI
-    - [ ] Add Import/export themes feature
-    - [ ] Fix Background image semi-transparent not working
+- [ ] Make UI
+- [ ] Add Import/export themes feature
+- [ ] Fix Background image semi-transparent not working
 
 
 About BBS mod
